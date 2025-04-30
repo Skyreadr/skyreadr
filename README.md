@@ -8,13 +8,11 @@ I turn frustrating experiences into intuitive ones through thoughtful design (ye
 - 🚀 Favorite tools: HTML, CSS, JavaScript, Figma, Notion, pen & paper
 
 <br>
-<a href="https://lauraupegui.com" style="display: inline-block; background-color: #C86359; color: white; text-decoration: none; padding: 5px 15px; font-weight: bold; border-radius: 4px; font-family: -apple-system, system-ui, sans-serif;">
- Visit My Website
-</a>
-<a href="mailto:lauraupegui@duck.com" style="display: inline-block; background-color: #4A060D; color: white; text-decoration: none; padding: 5px 15px; font-weight: bold; border-radius: 4px; font-family: -apple-system, system-ui, sans-serif;">
- Let's connect!
-</a>
-
+<a href="https://www.linkedin.com/in/lauraupegui/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-me?style=for-the-badge&logoSize=auto&color=C86359" /></a> 
+<a href="https://www.lauraupegui.com"><img src="https://img.shields.io/badge/Website-LU?style=for-the-badge&logoSize=auto&color=4A060D" /></a>
+<a href="https://lauraupegui.com/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-LU?style=for-the-badge&logoSize=auto&labelColor=black&color=F5EAE6" /></a>
+<br>
 
 ### Quick facts:
 - 🌎 Remote work (UTC-6 timezone)
