@@ -1,21 +1,19 @@
 ## Hola! 👋
-I'm Laura, Empathy Hacker at your service. 
-I turn frustrating experiences into intuitive ones through thoughtful design (yes, that includes code). With a curious mind and a multidisciplinary toolkit spanning design, behavioral economics, gamification, and industrial engineering, I specialize in simplifying complexity and (re)designing systems that make life smoother, smarter, and more delightful.
+I'm Laura, I turn frustrating experiences into intuitive ones through thoughtful design (yes, that includes code). With a curious mind and a multidisciplinary toolkit spanning design, behavioral economics, gamification, and industrial engineering, I specialize in simplifying complexity and (re)designing systems that make life smoother, smarter, and more delightful.
 
 ### About my work:
 - ⚡ My Superpower: Building bridges between disciplines – I ensure clear and effective communication across teams, disciplines, and cultures, translating complex ideas into practical solutions that everyone understands.
 - 🌟 My design philosophy: “The alternative to good design is always bad design. There is no such thing as no design.” - Adam Judge. And yes, design includes research, strategy, copywriting, coding, and convincing others.
-- 🚀 Favorite tools: HTML, CSS, JavaScript, Figma, Notion, pen & paper
+- 🚀 Favorite tools: HTML, CSS, JavaScript, Figma, Notion, Claude, pen & paper
 
 <br>
 <a href="https://www.linkedin.com/in/lauraupegui/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-me?style=for-the-badge&logoSize=auto&color=C86359" /></a> 
 <a href="https://www.lauraupegui.com"><img src="https://img.shields.io/badge/Website-LU?style=for-the-badge&logoSize=auto&color=4A060D" /></a>
-<a href="https://lauraupegui.com/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-LU?style=for-the-badge&logoSize=auto&labelColor=black&color=F5EAE6" /></a>
 <br>
 
 ### Quick facts:
-- 🌎 Remote work (UTC-6 timezone)
+- 🌎 Remote / Office / Hybrid work (UTC-7 timezone)
 - 🗣️ Fluent in Spanish and English (with strong reading comprehension in Italian, French, and German)
 - 🎓 Background in Behavioral Economics and Industrial Engineering, with a heart for Design (including front-end)
 - 💼 8+ years in teaching, research, and consulting
