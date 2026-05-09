@@ -3,7 +3,7 @@ I'm Laura, I turn frustrating experiences into intuitive ones through thoughtful
 
 ### About my work:
 - ⚡ My Superpower: Building bridges between disciplines – I ensure clear and effective communication across teams, disciplines, and cultures, translating complex ideas into practical solutions that everyone understands.
-- 🌟 My design philosophy: “The alternative to good design is always bad design. There is no such thing as no design.” - Adam Judge. And yes, design includes research, strategy, copywriting, coding, and convincing others.
+- 🌟 My design philosophy: “The alternative to good design is always bad design. There is no such thing as no design.” - Adam Judge. To me, design includes research, strategy, copywriting, coding, and convincing others.
 - 🚀 Favorite tools: HTML, CSS, JavaScript, Figma, Notion, Claude, pen & paper
 
 <br>
@@ -13,7 +13,7 @@ I'm Laura, I turn frustrating experiences into intuitive ones through thoughtful
 <br>
 
 ### Quick facts:
-- 🌎 Remote / Office / Hybrid work (UTC-7 timezone)
+- 🌎 San Francisco Bay Area (UTC-7 timezone): Remote / Office / Hybrid work
 - 🗣️ Fluent in Spanish and English (with strong reading comprehension in Italian, French, and German)
 - 🎓 Background in Behavioral Economics and Industrial Engineering, with a heart for Design (including front-end)
 - 💼 8+ years in teaching, research, and consulting
@@ -23,11 +23,12 @@ I'm Laura, I turn frustrating experiences into intuitive ones through thoughtful
 
 ## My Projects
 ### Ongoing (mine):
--  <a href="https://galeriaux.com/" target="_blank">GaleriaUX</a>: Virtual gallery that shows user experience cases from latinamerica
+- <a href="https://tarmiga.com/" target="_blank">Tarmiga</a>: Strategic Design Studio
+
+### Past:
+- <a href="https://galeriaux.com/" target="_blank">GaleriaUX</a>: Virtual gallery that shows user experience cases from latinamerica
 - <a href="https://greivi.com/" target="_blank">Greivi</a>: Blog of personal finances made simple
 - <a href="https://cocinaestrategias.com/" target="_blank">La Cocina de Estrategias</a>: online community with design thinking courses for Spanish-speaking non-designers
-
-### Past (collaborations):
 - <a href="https://fonograpp.com/" target="_blank">Fonograpp</a>: game designed for memory practice through music
 - <a href="https://introspecti.com/" target="_blank">Introspecti</a>: find and listen to the perfect mental health podcast episode you need
 - <a href="https://whapp.chat/" target="_blank">Whap.chat</a>: personalized url and dashboard for Whatsapp channels
